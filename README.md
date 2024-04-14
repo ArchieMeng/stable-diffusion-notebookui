@@ -18,11 +18,18 @@ Contributions are welcome.
 - [ ] Scheduler settings
 - [ ] ENSD support
 - [ ] Save image with parameter
-- [ ] Multi-GPU supports
+- [x] Multi-GPU supports
 - [ ] img2img
+  - [ ] Image Encoder
+  - [ ] Upload image
+
 - [ ] VAE
 - [ ] LORA
 - [ ] ControlNet
+- [ ] Notebook Testing CI
+  - [ ] CPU CI
+  - [ ] GPU CI?
+
 
 
 
