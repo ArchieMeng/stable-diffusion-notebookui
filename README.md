@@ -32,9 +32,8 @@ Contributions are encouraged! However, please **remember to remove any private i
   - [ ] ControlNet
 
 - [x] Multi-GPU supports
-- [ ] img2img
-  - [ ] Image Encoder
-  - [ ] Upload image
+- [x] img2img
+- [ ] Upload image
 - [ ] Notebook Testing CI
   - [x] CPU CI
   - [ ] GPU CI?
